@@ -1,0 +1,7 @@
+streamlit==1.12.0
+pandas
+plotly
+requests
+qrcode
+reportlab
+cryptography
